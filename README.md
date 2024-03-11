@@ -2,7 +2,7 @@
 Credit Card Checker Stripe Charger 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
-
+![PHP](https://i.postimg.cc/yx8hKFJ7/Novo-Projeto.png)
 ## Install on desktop : 
 - Install XAMPP
 - Added environment variable system path => C:\xampp\php
@@ -24,4 +24,4 @@ Credit Card Checker Stripe Charger
     $ cd cc-checker-php
     $ php cc.php
 
-![PHP](https://i.postimg.cc/yx8hKFJ7/Novo-Projeto.png)
+
