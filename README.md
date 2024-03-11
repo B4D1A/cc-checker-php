@@ -2,7 +2,7 @@
 Credit Card Checker Stripe Charger 
 ![PHP](https://img.shields.io/badge/language-PHP-blue.svg)
 ![BANDITCODING](https://img.shields.io/badge/Team-Banditcoding-green)
-![PHP](https://i.imgur.com/9VoURs6.png)
+
 ## Install on desktop : 
 - Install XAMPP
 - Added environment variable system path => C:\xampp\php
@@ -23,4 +23,10 @@ Credit Card Checker Stripe Charger
     $ sudo git clone https://github.com/B4D1A/cc-checker-php
     $ cd cc-checker-php
     $ php cc.php
-
+  _____ _    _ _  _    _____ _  _____  
+ / ____| |  | | || |  / ____| |/ / _ \ 
+| (___ | |__| | || |_| |    | ' / | | |__  __
+ \___ \|  __  |__   _| |    |  <| | | |\ \/ /
+ ____) | |  | |  | | | |____| . \ |_| | >  < 
+|_____/|_|  |_|  |_|  \_____|_|\_\___/ /_/\_\
+![PHP](https://i.imgur.com/9VoURs6.png)
